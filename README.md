@@ -1,4 +1,8 @@
-# TetrisBySophia
+# 🧩 Tetris — *by Me <3*
 
-My take on the Tetris game as a way of learning and practicing my C++ skils
-Also just a fun project :)
+> *Falling blocks, rising skills.*
+
+A minimalist re-creation of **Tetris**, built to sharpen my **C++** skills  
+and explore the joy of game development.  
+Just a fun side project that hopefully turns into something I’m proud of. 💫  
+
